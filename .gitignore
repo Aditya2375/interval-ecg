@@ -1,7 +1,7 @@
-data/
-source.html
 __pycache__/
 *.pyc
-train.log
-test_predictions.npz
-PLAN.md
+*.npz
+*.pt
+*.log
+data/
+node_modules/

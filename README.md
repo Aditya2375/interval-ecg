@@ -80,3 +80,7 @@ Browser harness: `npm install --no-save playwright`, then `node browser-check.cj
 Method references: [Integrated Gradients, Sundararajan et al.](https://arxiv.org/html/1703.01365v2); [Conv1d](https://docs.pytorch.org/docs/main/generated/torch.nn.Conv1d.html); [AvgPool1d](https://docs.pytorch.org/docs/main/generated/torch.nn.AvgPool1d.html). Interpatient evaluation context: [Wang et al. (2021)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8181174/). This app does not reproduce that paper's architecture, labels, split or clinical claims.
 
 No accounts, uploads, cookies, storage, telemetry, remote inference, dynamic code or third-party runtime scripts. Same-origin CSP, safe DOM text, validated finite inputs. Historical recordings, selected arrhythmias, only two labels, small subject count, no external cohort and no clinical validation. No deployment or health assessment claim.
+
+## License
+
+Licensed under either of [MIT](LICENSE-MIT) or [Apache License 2.0](LICENSE-APACHE) at your option.
